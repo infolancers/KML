@@ -1,4 +1,0 @@
-KML
-===
-
-Kanpur Medilife
